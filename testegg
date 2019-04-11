@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main {
+printf ("eu odeio algoritmo");
+return 0;
+}
